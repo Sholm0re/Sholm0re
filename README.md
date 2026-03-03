@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mykolai! 👋
 
-<!--
-**Sholm0re/Sholm0re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=047857&width=435&lines=Computer+Engineering+Student;Web+Development+Learner;Souls-like+Gamer" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+* 🎓 Computer Engineering student (KI-25-1) at **IFNTUOG**, Ivano-Frankivsk.
+* 🌱 Currently learning **Web Design & Frontend Development** (HTML, CSS), and **C++**.
+* 🎮 In my free time, I play Souls-like games (Dark Souls, Demon's Souls) and God of War.
+* ⚙️ Interested in PC hardware, custom builds, and tweaking game mods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sholm0re&show_icons=true&theme=radical" alt="Sholm0re's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholm0re&theme=radical" alt="Sholm0re's GitHub streak" width="48%" />
+</p>

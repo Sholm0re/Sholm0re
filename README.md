@@ -20,6 +20,8 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholm0re&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholm0re&theme=radical" alt="Sholm0re's GitHub streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholm0re&theme=radical" alt="Sholm0re's GitHub streak" width="60%" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sholm0re&label=Profile%20Views&color=047857&style=flat" alt="Profile views" />
 </p>
